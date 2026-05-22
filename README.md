@@ -48,4 +48,4 @@ A collapsible table at the bottom displays the filtered records.
 
 ## Deployed dashboard
 
-<!-- paste the Streamlit Cloud URL here after deployment -->
+https://iris-classification-n6phkmyrptdkycheydbt6b.streamlit.app/#model-performance
